@@ -254,3 +254,55 @@ from math import *
 #         print(digit)
 
 # Exponent Function
+
+
+# def raise_to_power(base_num, power_num):
+#     result = 1
+#     for index in range(power_num):
+#         result *= base_num
+#     return result
+
+
+# print(raise_to_power(5, 9))
+
+
+# 2D List and Nested Loop
+
+# grid_number = [["K xa", "Hehiaha"], [1, 2, 3], ["hehe"]]
+
+# print(grid_number[1][2])
+
+# for index in grid_number:
+#     for vitra in index:
+#         print(vitra)
+
+# Build a translator
+
+
+# phrase = input("Enter the phrase you like: ")
+
+
+# def translate(info):
+#     result = ""
+#     for letter in info:
+#         if letter in "AEIOUaeiou":
+#             result += "g"
+#         else:
+#             result += letter
+#     return result
+
+
+# print(translate(phrase))
+
+
+# Try..Except
+
+# try:
+#     number = int(input("Enter a number: "))
+#     print(number)
+# except ZeroDivisionError:
+#     print("No pasa no")
+# except ValueError:
+#     print("Na baba na.")
+
+# Reading from external files
