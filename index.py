@@ -1,4 +1,16 @@
-from math import *
+# from math import *
+
+from question import Question
+
+# classes and objects
+# from student import Student
+
+# student1 = Student("Pasa", "Computer Science", 1011, True)
+# student2 = Student("Pam", "Heho", 838, False)
+# print(type(student1))
+# print(student1.name)
+# print(student2.is_active_student)
+
 
 # print("Pasa K xa. I am back")
 
@@ -317,4 +329,20 @@ from math import *
 
 # modules and pip
 
-# classes and objects
+
+# example quiz
+
+# question_prompts = [
+#     "What is today?\n (a) Day \n (b) Not Day \n (c No No)",
+#     "What is yesterday?\n (a) Day \n (b) Not Day \n (c No No)",
+#     "What is hehohaha?\n (a) Day \n (b) Not Day \n (c No No)",
+# ]
+
+# ques = [Question(questions[0], "a")]
+
+
+# Class Function / Object Function
+
+# Inheritance
+
+# Python Interpreter
