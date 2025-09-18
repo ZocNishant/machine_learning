@@ -306,3 +306,15 @@ from math import *
 #     print("Na baba na.")
 
 # Reading from external files
+
+# read_file = open("Pasa.txt", "r")
+
+# print(read_file.readlines())
+
+# read_file.close()
+
+# Writing to files
+
+# modules and pip
+
+# classes and objects
