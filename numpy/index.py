@@ -94,12 +94,12 @@ import numpy as np
 
 # filtering - refers to the process of selecting elements from an array that match agiven condition
 
-array_ages = np.array([[21, 22, 32, 14, 16], [44, 54, 35, 66, 75]])
+# array_ages = np.array([[21, 22, 32, 14, 16], [44, 54, 35, 66, 75]])
 
-teen = array_ages[array_ages < 18]
-adults = array_ages[(array_ages >= 18) & (array_ages <= 55)]
-old = array_ages[array_ages > 55]
+# teen = array_ages[array_ages < 18]
+# adults = array_ages[(array_ages >= 18) & (array_ages <= 55)]
+# old = array_ages[array_ages > 55]
 
-print(teen)
-print(adults)
-print(old)
+# print(teen)
+# print(adults)
+# print(old)
